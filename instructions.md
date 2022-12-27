@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" href="https://tinman.cs.gsu.edu/~raj/my.css">
 <title>CSc 1301 Honors Lab - Fall 2022</title>
 </head>
 
