@@ -10,5 +10,5 @@
 
 ### my own title
 
-!(https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+!(https://assets.digitalocean.com/articles/alligator/boo.svg)
 
