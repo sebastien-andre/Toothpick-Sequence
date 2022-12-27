@@ -1,4 +1,6 @@
 !(https://tinman.cs.gsu.edu/raj/1301/f22/p8-extracredit/0.png?raw=true)
+<img src="https://tinman.cs.gsu.edu/raj/1301/f22/p8-extracredit/0.png?" alt="Alt text" title="Optional title">
+
 <!DOCTYPE html>
 <html>
 <head>
