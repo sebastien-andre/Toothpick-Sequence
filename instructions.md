@@ -24,21 +24,21 @@ from Zelle's textbook available at
 to solve this problem.
 <P>The sequence begins with one toothpick (iteration 0) placed on a canvas vertically as shown below:
 <P>
-<img src="./0.png" width="100" height="100"/>
+<img https://tinman.cs.gsu.edu/src="https://tinman.cs.gsu.edu/raj/1301/f22/p8-extracreditraj/1301/f22/p8-extracredit/0.png" width="100" height="100"/>
 <P>In subsequent iterations, new toothpicks are placed perpendicular to
 open ends of previous toothpicks with the midpoint of the new toothpick placed
 touching the open end.
 Some toothpick arrangements, after 1, 2, 3, 4, and 8 iterations:
 <P>
-<img src="./1.png" width="100" height="100"/>
-<img src="./2.png" width="100" height="100"/>
-<img src="./3.png" width="100" height="100"/>
-<img src="./4.png" width="100" height="100"/>
-<img src="./8.png" width="100" height="100"/>
+<img https://tinman.cs.gsu.edu/src="https://tinman.cs.gsu.edu/raj/1301/f22/p8-extracreditraj/1301/f22/p8-extracredit/1.png" width="100" height="100"/>
+<img https://tinman.cs.gsu.edu/src="https://tinman.cs.gsu.edu/raj/1301/f22/p8-extracreditraj/1301/f22/p8-extracredit/2.png" width="100" height="100"/>
+<img https://tinman.cs.gsu.edu/src="https://tinman.cs.gsu.edu/raj/1301/f22/p8-extracreditraj/1301/f22/p8-extracredit/3.png" width="100" height="100"/>
+<img https://tinman.cs.gsu.edu/src="https://tinman.cs.gsu.edu/raj/1301/f22/p8-extracreditraj/1301/f22/p8-extracredit/4.png" width="100" height="100"/>
+<img https://tinman.cs.gsu.edu/src="https://tinman.cs.gsu.edu/raj/1301/f22/p8-extracreditraj/1301/f22/p8-extracredit/8.png" width="100" height="100"/>
 <P>Here are two more arrangements (after 24 and 32 iterations):
 <P>
-<img src="./24.png" width="400" height="400"/>
-<img src="./32.png" width="400" height="400"/>
+<img https://tinman.cs.gsu.edu/src="https://tinman.cs.gsu.edu/raj/1301/f22/p8-extracreditraj/1301/f22/p8-extracredit/24.png" width="400" height="400"/>
+<img https://tinman.cs.gsu.edu/src="https://tinman.cs.gsu.edu/raj/1301/f22/p8-extracreditraj/1301/f22/p8-extracredit/32.png" width="400" height="400"/>
 <P>The tricky part of the problem is to identify open ends that allow new
 toothpicks to be placed at that end. It is not always that the two ends of
 the new toothpick are open (sometimes they coincide with open end of another toothpick
