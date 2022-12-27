@@ -24,9 +24,9 @@ from Zelle's textbook available at
 to solve this problem.
 <P>The sequence begins with one toothpick (iteration 0) placed on a canvas vertically as shown below:
 <P>
-
+</P>
 ![i](https://tinman.cs.gsu.edu/raj/1301/f22/p8-extracredit/0.png "title")
-   
+<P>
 <P>In subsequent iterations, new toothpicks are placed perpendicular to
 open ends of previous toothpicks with the midpoint of the new toothpick placed
 touching the open end.
