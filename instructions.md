@@ -1,9 +1,6 @@
-
+## Extra Assignment
 <!DOCTYPE html>
 <html>
-<head>
-<title>CSc 1301 Honors Lab - Fall 2022</title>
-</head>
 
 <body style="background-color:#ADD8E6;">
 
