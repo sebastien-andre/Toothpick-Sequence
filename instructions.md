@@ -1,4 +1,4 @@
-<img src="images/0.png?" alt="Alt text" title="Optional title">
+
 
 <!DOCTYPE html>
 <html>
